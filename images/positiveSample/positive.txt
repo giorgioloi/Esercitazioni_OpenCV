@@ -1,0 +1,3 @@
+positiveSample/pallina_1.jpg
+positiveSample/pallina_2.jpg
+positiveSample/pallina_3.jpg

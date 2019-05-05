@@ -1,0 +1,2 @@
+negativeSample/img1.jpg
+negativeSample/img2.jpg
