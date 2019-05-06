@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gioxor/Esercitazioni_OpenCV/master)
 # Ipython Notebooks delle esercitazioni di OpenCV 
 
-Questo repository contiene codice degli IPython-Notebook delle esercitazioni di OpenCV del corso di Computer Vision anno 2018/2019 del Politecnico di Torino. Di default Github dovrebbe renderizzare automaticamente i notebook, ma in questo momento non riesce. Si possono visualizzare su https://nbviewer.jupyter.org/ copiando l'URL del notebook.
+Questo repository contiene codice degli IPython-Notebook delle esercitazioni di OpenCV del corso di Computer Vision anno 2018/2019 del Politecnico di Torino.
 
 ## Lista dei notebook:
 
