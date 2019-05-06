@@ -14,3 +14,4 @@ Questo repository contiene codice degli IPython-Notebook delle esercitazioni di 
 ### Note e link
 Per gli esercizi che richiedevano un flusso video ho usato il modulo Ipython.display, il framerate non è altissimo ma sembra funzionare bene. Metto il link del repository dove ho preso il codice: 
 - https://github.com/bikz05/ipython-notebooks/blob/master/computer-vision/displaying-video-in-ipython-notebook.ipynb
+Inoltre ho collegato il repository con Binder (basta schiacciare il bottone in alto a sinistra con il logo di binder) ma i video della webcam non partono quando in locale tutto funziona tranquillamente.
