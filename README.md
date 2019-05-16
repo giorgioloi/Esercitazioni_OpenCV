@@ -12,7 +12,6 @@ Questo repository contiene codice degli IPython-Notebook delle esercitazioni di 
 5. [Object Recognition](https://github.com/Gioxor/Esercitazioni_OpenCV/blob/master/Esercitazione%207%20-%20Object%20Recognition.ipynb)
 
 ### Note e link
-Per gli esercizi che richiedevano un flusso video ho usato il modulo Ipython.display, il framerate non è altissimo ma sembra funzionare bene. Metto il link del repository dove ho preso il codice: 
-- https://github.com/bikz05/ipython-notebooks/blob/master/computer-vision/displaying-video-in-ipython-notebook.ipynb
+Aggiunto il report dove spiego tutti i dettagli. Se si hanno problemi con la visualizzazione dei video della webcam, riavviare il kernel, togliere e rimettere l'usb della webcam e controllare che non ci siano altri notebook aperti che usino la webcam
 
 Inoltre ho collegato il repository con Binder (basta schiacciare il bottone in alto a sinistra con il logo di binder) ma i video della webcam non partono quando in locale tutto funziona tranquillamente.
